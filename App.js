@@ -12,7 +12,7 @@ import SpecialMenu from './container/Menu/SpecialMenu';
 import MenuPage from './container/Menu/MenuPage';
 import MenuItem from './components/Menuitem/MenuItem';
 import Chef from './container/Chef/Chef';
-import BookTable from '../src/container/booktable';
+import BookTable from '../src/container/booktable/booktable';
 import ThankYou from '../src/container/Thankyou/thankyou';
 import './App.css';
 import './index.css';
